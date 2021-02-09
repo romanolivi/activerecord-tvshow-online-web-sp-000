@@ -17,7 +17,11 @@ ActiveRecord::Schema.define(version: 2) do
     t.string "network"
     t.string "day"
     t.integer "rating"
+<<<<<<< HEAD
     t.string "season"
+=======
+    t.string "seasons"
+>>>>>>> 86574abf0ae9a33ea2d36b9888f5b37879491638
   end
 
 end
